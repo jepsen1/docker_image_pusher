@@ -1,1 +1,1 @@
-garethflowers/svn-server
+--platform=linux/arm64 garethflowers/svn-server
